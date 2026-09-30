@@ -1,0 +1,12 @@
+C:\Users\Nasti\source\repos\Ships\Ships\bin\Debug\Ships.exe.config
+C:\Users\Nasti\source\repos\Ships\Ships\bin\Debug\Ships.exe
+C:\Users\Nasti\source\repos\Ships\Ships\bin\Debug\Ships.pdb
+C:\Users\Nasti\source\repos\Ships\Ships\obj\Debug\Ships.csproj.AssemblyReference.cache
+C:\Users\Nasti\source\repos\Ships\Ships\obj\Debug\Ships.Form1.resources
+C:\Users\Nasti\source\repos\Ships\Ships\obj\Debug\Ships.Properties.Resources.resources
+C:\Users\Nasti\source\repos\Ships\Ships\obj\Debug\Ships.csproj.GenerateResource.cache
+C:\Users\Nasti\source\repos\Ships\Ships\obj\Debug\Ships.csproj.CoreCompileInputs.cache
+C:\Users\Nasti\source\repos\Ships\Ships\obj\Debug\Ships.exe
+C:\Users\Nasti\source\repos\Ships\Ships\obj\Debug\Ships.pdb
+C:\Users\Nasti\source\repos\Ships\Ships\obj\Debug\Ships.Form2.resources
+C:\Users\Nasti\source\repos\Ships\Ships\obj\Debug\Ships.exe.config
