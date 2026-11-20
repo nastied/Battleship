@@ -1,0 +1,65 @@
+## Visual Studio & .NET Framework
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Build results
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## MonoGame / XNA Content Pipeline (if applicable)
+Content/bin/
+Content/obj/
+
+## NuGet Packages
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+## Test results & coverage
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+
+## Other IDEs (Rider, VS Code)
+.idea/
+*.sln.iml
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## Game runtime & debug artifacts
+*.log
+*.dmp
+*.crash
+saves/
+
+## OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## Executable/config
+*.exe
+*.exe.config
+*.pdb
